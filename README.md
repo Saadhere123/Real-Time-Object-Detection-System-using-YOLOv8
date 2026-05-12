@@ -33,7 +33,12 @@ python detect_video.py
 
 python webcam_detection.py
 
-## 📊 Sample Output
-- Person (0.92)
-- Car (0.88)
-- Dog (0.85)
+# 🌐 Run Streamlit Web App
+
+## Start Streamlit App
+
+```bash
+streamlit run app.py
+```
+
+
